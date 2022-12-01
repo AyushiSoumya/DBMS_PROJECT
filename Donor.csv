@@ -1,0 +1,11 @@
+﻿DID,name,gender,DOB,Ph_no,state,city,pin,recomm_did,receptionist_emp_id
+1501,Riya,F,1/2/1997,9744665578,karnataka,bangalore,560065,null,1111
+1502,Vandana,F,5/1/2001,8364463364,goa,panjim,234589,1501,1111
+1503,Disha,F,6/3/1995,6384499300,andhra pradesh,hyderabad,561103,1502,1112
+1504,Ayushi,F,9/5/2000,9456372890,karnataka,bangalore,560034,1503,1113
+1505,Ahmad,M,8/3/1996,9264757252,karnataka,tumkur,550293,1504,1114
+1506,Max,M,6/5/2002,8634672251,bihar,patna,800012,1505,1111
+1507,Samuel,M,6/4/1993,9040221343,delhi,delhi,110077,1506,1113
+1508,Will,M,2/7/1998,8000123455,karnataka,hosur,560496,1507,1112
+1509,Priya,F,1/8/2000,7442648913,karnataka,bangalore,567438,1508,1114
+1510,Harsh,M,2/7/1999,6548393992,madhya pradesh,bhopal,434959,1509,1112
